@@ -15,7 +15,7 @@ int main() {
 	cin>>Celsius;
 	
 	Fahrenheit = (9.0 / 5.0) * Celsius + 32.0;
-	cout<<"\n\tLos "<<Celsius<<" grados C se han convertido en "<<Fahrenheit<<" grados F."<<enld;
+	cout<<"\n\tLos "<<Celsius<<" grados C se han convertido en "<<Fahrenheit<<" grados F."<<endl;
 	system("pause");
 	
 	return 0;
